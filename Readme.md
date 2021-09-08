@@ -6,6 +6,7 @@ Here is a growing collection of resources and helpful commands to know when work
 
 ## Git Commands
 - [git config](./Commands/Config.md)
+
 - [git init](./Commands/Init.md)
 
 - [git add](./Commands/Add.md)
@@ -14,13 +15,13 @@ Here is a growing collection of resources and helpful commands to know when work
 
 - [git remote](./Commands/Remote.md)
 
-- [git push](./commands/Push.md)
+- [git push](./Commands/Push.md)
 
-- [git pull](./commands/pull.md)
+- [git pull](./Commands/Pull.md)
 
 - [git status](./Commands/Status.md)
 
-- [git clone](./Commands/clone.md)
+- [git clone](./Commands/Clone.md)
 
 ## External Resources
 
